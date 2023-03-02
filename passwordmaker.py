@@ -79,3 +79,6 @@ elif decision == '2':
             break
 time.sleep(2)         
 print("Thanks for using my password generator!\n Stay safe!")
+time.sleep(1)
+print("Program is closing.")
+time.sleep(2)
